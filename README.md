@@ -35,3 +35,6 @@ Save the file as OCR.bat and select "All Files" in the save dialog.
   Type shell:startup and press Enter.
   Save the OCR.bat file in the directory that opens.
   Now, the tool will start automatically when you reboot your computer.
+
+5. Install Tesseract-Ocr 
+  https://github.com/UB-Mannheim/tesseract/wiki
